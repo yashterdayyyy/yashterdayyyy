@@ -40,36 +40,28 @@ My work sits at the intersection of disciplines that are usually kept separate. 
 <tr>
 <td width="25%" align="center">
 
-### I. ORIGIN
-
-**OBSESSION**
+### I. OBSESSION
 
 Every project starts with something I cannot stop thinking about.
 
 </td>
 <td width="25%" align="center">
 
-### II. VALUE
-
-**DESIRE**
+### II. DESIRE
 
 The obsession becomes a problem worth solving.
 
 </td>
 <td width="25%" align="center">
 
-### III. MOMENTUM
-
-**ACTION**
+### III. ACTION
 
 Ideas become useful only when something gets built.
 
 </td>
 <td width="25%" align="center">
 
-### IV. REFLECTION
-
-**OUTCOME**
+### IV. OUTCOME
 
 The result changes what I build next.
 
@@ -222,18 +214,6 @@ I'm particularly interested in understanding AI systems from the inside out, inc
 - Building software without hiding behind abstraction
 
 > **Understand it. Build it. Ship it.**
-
----
-
-## GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashterdayyyy&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&include_all_commits=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashterdayyyy&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" height="165" />
-
-</div>
 
 ---
 
