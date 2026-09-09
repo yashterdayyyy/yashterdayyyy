@@ -1,16 +1,22 @@
-## Hi there 👋
+from pathlib import Path
 
-<!--
-**yashterdayyyy/yashterdayyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+path = Path("/mnt/data/README.md")
+content = path.read_text(encoding="utf-8")
 
-Here are some ideas to get you started:
+content = content.replace(
+    "https://github.com/yashganar90",
+    "https://github.com/yashterdayyyy"
+)
+content = content.replace(
+    "https://github.com/yashganar90/trading-simulator",
+    "https://github.com/yashterdayyyy/trading-simulator"
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# The user's GitHub profile repository should match the actual username.
+content = content.replace(
+    "Your GitHub username appears to be **`yashganar90`**",
+    "Your GitHub username is **`yashterdayyyy`**"
+)
+
+path.write_text(content, encoding="utf-8")
+print("Updated GitHub links to https://github.com/yashterdayyyy")
