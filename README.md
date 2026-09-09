@@ -159,6 +159,16 @@ The result changes what I build next.
 
 ## EXPERIENCE
 
+### Data Quality Analyst
+**Vermount Information Processing · Mumbai**  
+*May 2026 — Present*
+
+- Analyze and validate data to identify inconsistencies, errors, and quality issues.
+- Perform data quality checks and investigate discrepancies across datasets.
+- Support data cleaning, verification, and accuracy improvement processes.
+- Work with internal teams to resolve data-related issues and maintain data integrity.
+- Develop an understanding of data quality standards, validation processes, and analytical workflows.
+
 ### Product Development Intern
 **AlgoBulls · Mumbai**  
 *Jul 2025 — Jan 2026*
