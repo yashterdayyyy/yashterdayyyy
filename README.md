@@ -157,44 +157,6 @@ The result changes what I build next.
 
 ---
 
-## EXPERIENCE
-
-### Data Quality Analyst
-**Vermount Information Processing · Mumbai**  
-*May 2026 — Present*
-
-- Analyze and validate data to identify inconsistencies, errors, and quality issues.
-- Perform data quality checks and investigate discrepancies across datasets.
-- Support data cleaning, verification, and accuracy improvement processes.
-- Work with internal teams to resolve data-related issues and maintain data integrity.
-- Develop an understanding of data quality standards, validation processes, and analytical workflows.
-
-### Product Development Intern
-**AlgoBulls · Mumbai**  
-*Jul 2025 — Jan 2026*
-
-- Redesigned the AlgoBulls interface to help clients make faster investment decisions
-- Contributed to a major product revamp with new strategy filters and improved UX
-- Collaborated with cross-functional teams to improve usability
-
-### Business Development Intern
-**AlgoBulls · Mumbai**  
-*Jan 2025 — Jul 2025*
-
-- Handled 1000+ inbound calls, improving sales conversion by 20%
-- Contributed to generating 2× ROI during the internship period
-- Designed thumbnails, posters and supported video editing for digital presence
-
-### Research Intern
-**IITRAM · Ahmedabad**  
-*Jun 2024 — Jul 2024*
-
-- Compared reinforcement learning algorithms in highway and intersection environments
-- Evaluated rewards, collisions and average speed
-- Worked with Python, PyTorch and HighwayEnv
-
----
-
 ## SELECTED WORK
 
 | PROJECT | WHAT I BUILT | FOCUS |
