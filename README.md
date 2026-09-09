@@ -169,26 +169,6 @@ The result changes what I build next.
 [View my repositories →](https://github.com/yashterdayyyy)
 
 ---
-
-## CURRENTLY BUILDING
-
-I'm currently going deeper into the intersection of:
-
-**SOFTWARE ENGINEERING × AI × PRODUCT**
-
-I'm particularly interested in understanding AI systems from the inside out, including:
-
-- Retrieval-Augmented Generation
-- LLM applications
-- AI product design
-- Machine Learning
-- Product research and teardown
-- Building software without hiding behind abstraction
-
-> **Understand it. Build it. Ship it.**
-
----
-
 ## FIND ME
 
 <div align="center">
