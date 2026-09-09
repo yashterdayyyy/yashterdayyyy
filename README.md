@@ -1,148 +1,253 @@
-# Yash Ganar
+<div align="center">
 
-**Generalist · Builder · Strategist**
+# YASH GANAR
 
-I build products across **code, design, and visuals**.
+**GENERALIST · BUILDER · STRATEGIST**
 
-I like taking ideas from a vague problem to something people can actually use, whether that means researching the problem, designing the experience, writing the code, or communicating the final product.
+*I build from obsession, not obligation.*
 
-[Portfolio](https://yashganar.com/) · [LinkedIn](https://www.linkedin.com/in/yash-ganar-379b1621b/) · [Email](mailto:yashganar90@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-yashganar.com-000000?style=for-the-badge&labelColor=000000&color=ffffff)](https://yashganar.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-YASH_GANAR-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff)](https://www.linkedin.com/in/yash-ganar-379b1621b/)
+[![GitHub](https://img.shields.io/badge/GITHUB-yashterdayyyy-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ffffff)](https://github.com/yashterdayyyy)
 
----
+</div>
 
-## About Me
+<br/>
 
-I'm a generalist who works across three areas:
+<div align="center">
 
-**Product**  
-Research · Product Strategy · UX · Prototyping
+`PRODUCT` &nbsp;·&nbsp; `CODE` &nbsp;·&nbsp; `VISUALS` &nbsp;·&nbsp; `AI`
 
-**Code**  
-Python · JavaScript · Node.js · Express.js · SQL · Next.js
-
-**Visuals**  
-Figma · UI Design · Branding · Typography · Premiere Pro · DaVinci Resolve
-
-My background spans product development, business development, research, software development, and visual communication.
-
-I'm particularly interested in the space where **product thinking, software, and AI meet**.
+</div>
 
 ---
 
-## What I'm Building
+## ABOUT
 
-### 🤖 AI & Product
+I plan products, build them with code, and communicate them with visuals.
 
-Currently exploring how AI systems actually work by building projects around:
+I'm a generalist across **product, software, design, and visual communication**. I like taking an idea from an initial obsession through research, strategy, design, implementation, and launch.
+
+> **Most people need a team to go from idea to launch. I don't.**
+
+My work sits at the intersection of disciplines that are usually kept separate. Product thinking informs what I build. Code turns it into something usable. Visuals make it understandable.
+
+---
+
+## THE WAY I WORK
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### I. ORIGIN
+
+**OBSESSION**
+
+Every project starts with something I cannot stop thinking about.
+
+</td>
+<td width="25%" align="center">
+
+### II. VALUE
+
+**DESIRE**
+
+The obsession becomes a problem worth solving.
+
+</td>
+<td width="25%" align="center">
+
+### III. MOMENTUM
+
+**ACTION**
+
+Ideas become useful only when something gets built.
+
+</td>
+<td width="25%" align="center">
+
+### IV. REFLECTION
+
+**OUTCOME**
+
+The result changes what I build next.
+
+</td>
+</tr>
+</table>
+
+---
+
+## WHAT I DO
+
+### PRODUCT
+
+`Product Discovery` · `Research` · `Product Strategy` · `UX` · `UI Design` · `Prototyping`
+
+### CODE
+
+`Python` · `JavaScript` · `Node.js` · `Express.js` · `SQL` · `Next.js`
+
+### VISUALS
+
+`Figma` · `Branding` · `Typography` · `Motion` · `Video Editing` · `Storytelling`
+
+### AI & ML
+
+`Machine Learning` · `Deep Learning` · `Reinforcement Learning` · `NLP` · `Generative AI` · `RAG`
+
+---
+
+## TOOLS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/><br/>
+<sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="42" alt="Express.js"/><br/>
+<sub><b>Express.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/><br/>
+<sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/>
+<sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma"/><br/>
+<sub><b>Figma</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sqlite" width="42" alt="SQLite"/><br/>
+<sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"/><br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=pytorch" width="42" alt="PyTorch"/><br/>
+<sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel"/><br/>
+<sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/>
+<sub><b>GitHub</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## EXPERIENCE
+
+### Product Development Intern
+**AlgoBulls · Mumbai**  
+*Jul 2025 — Jan 2026*
+
+- Redesigned the AlgoBulls interface to help clients make faster investment decisions
+- Contributed to a major product revamp with new strategy filters and improved UX
+- Collaborated with cross-functional teams to improve usability
+
+### Business Development Intern
+**AlgoBulls · Mumbai**  
+*Jan 2025 — Jul 2025*
+
+- Handled 1000+ inbound calls, improving sales conversion by 20%
+- Contributed to generating 2× ROI during the internship period
+- Designed thumbnails, posters and supported video editing for digital presence
+
+### Research Intern
+**IITRAM · Ahmedabad**  
+*Jun 2024 — Jul 2024*
+
+- Compared reinforcement learning algorithms in highway and intersection environments
+- Evaluated rewards, collisions and average speed
+- Worked with Python, PyTorch and HighwayEnv
+
+---
+
+## SELECTED WORK
+
+| PROJECT | WHAT I BUILT | FOCUS |
+|---|---|---|
+| **Autonomous Intersection Management** | RL algorithms for autonomous intersection management using PPO and A2C | `Python` `PyTorch` `RL` |
+| **Kalakriti** | Generative AI poster creation with voice input for image generation | `Python` `Streamlit` `GenAI` |
+| **Trading Simulator** | Command-line stock market simulator built with object-oriented Python | `Python` `OOP` `Simulation` |
+| **Personal Portfolio** | A portfolio built around product, code and visual work | `Next.js` `Design` `Product` |
+
+[View my repositories →](https://github.com/yashterdayyyy)
+
+---
+
+## CURRENTLY BUILDING
+
+I'm currently going deeper into the intersection of:
+
+**SOFTWARE ENGINEERING × AI × PRODUCT**
+
+I'm particularly interested in understanding AI systems from the inside out, including:
 
 - Retrieval-Augmented Generation
 - LLM applications
 - AI product design
 - Machine Learning
-- Generative AI
-- AI-powered workflows
-
-### 💻 Software
-
-Building projects to strengthen my understanding of software from the fundamentals upward.
-
-Currently working with:
-
-- Python
-- JavaScript
-- Node.js
-- Express.js
-- SQL
-- Next.js
-
-### 🎨 Design & Visuals
-
-I also work on the visual side of products:
-
-- UI/UX
-- Figma
-- Typography
-- Branding
-- Video editing
-- Motion
-- Visual storytelling
-
----
-
-## Selected Work
-
-### 🧠 AI Product Teardown Lab
-
-A product research project focused on understanding how AI products are discovered, researched, designed and evaluated.
-
-**Focus:** Product Discovery · User Research · Competitive Analysis · JTBD · Product Strategy
-
----
-
-### 📈 Trading Simulator
-
-A command-line stock market simulator built in Python using object-oriented design.
-
-**Focus:** Python · OOP · Software Architecture · Simulation
-
-[View Project](https://github.com/yashterdayyyy/trading-simulator)
-
----
-
-### 🌐 Personal Portfolio
-
-My personal website, built as a living representation of how I think, build and communicate.
-
-**Focus:** Product · Design · Code · Visual Systems
-
-[Visit yashganar.com](https://yashganar.com/)
-
----
-
-## Experience
-
-**Product Development Intern · AlgoBulls**  
-Mumbai · 2025–2026
-
-- Worked on product and interface improvements
-- Contributed to strategy filters and UX improvements
-- Collaborated with cross-functional teams
-- Worked directly with clients to understand product problems
-
-**Business Development Intern · AlgoBulls**  
-Mumbai · 2025
-
-- Handled inbound client communication
-- Contributed to sales and product initiatives
-- Worked across sales, product and digital content
-- Created thumbnails, posters and supported video editing
-
-**Research Intern · IITRAM**  
-Ahmedabad · 2024
-
-- Worked on reinforcement learning for autonomous intersections
-- Compared RL algorithms across highway and intersection environments
-- Evaluated rewards, collisions and average speed
-
----
-
-## Current Focus
-
-I'm currently focused on becoming stronger at the intersection of:
-
-**Software Engineering × AI × Product**
-
-I'm deliberately building from fundamentals rather than simply assembling things with AI.
-
-The goal is simple:
+- Product research and teardown
+- Building software without hiding behind abstraction
 
 > **Understand it. Build it. Ship it.**
 
 ---
 
-## Find Me
+## GITHUB
 
-🌐 [yashganar.com](https://yashganar.com/)  
-💼 [LinkedIn](https://www.linkedin.com/in/yash-ganar-379b1621b/)  
-💻 [GitHub](https://github.com/yashterdayyyy)  
-✉️ [Email](mailto:yashganar90@gmail.com)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashterdayyyy&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&include_all_commits=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashterdayyyy&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" height="165" />
+
+</div>
+
+---
+
+## FIND ME
+
+<div align="center">
+
+**[PORTFOLIO](https://yashganar.com/)**  
+**[LINKEDIN](https://www.linkedin.com/in/yash-ganar-379b1621b/)**  
+**[GITHUB](https://github.com/yashterdayyyy)**  
+**[EMAIL](mailto:yashganar90@gmail.com)**
+
+<br/>
+
+*© 2026 Yash Ganar*
+
+</div>
