@@ -8,7 +8,6 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-yashganar.com-000000?style=for-the-badge&labelColor=000000&color=ffffff)](https://yashganar.com/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-YASH_GANAR-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff)](https://www.linkedin.com/in/yash-ganar-379b1621b/)
-[![GitHub](https://img.shields.io/badge/GITHUB-yashterdayyyy-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ffffff)](https://github.com/yashterdayyyy)
 
 </div>
 
